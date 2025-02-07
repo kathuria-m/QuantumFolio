@@ -1,0 +1,18 @@
+{
+  "assets": ["IVV", "AGG", "EFA", "IEMG", "IJH"],
+  "start_date": "2018-01-01",
+  "end_date": "2024-12-31",
+  "risk_aversion": 2.5,
+  "investor_views": {
+    "IVV": 0.02,
+    "EFA": -0.01,
+    "AGG": 0.015,
+    "IEMG": 0.025
+  },
+  "confidence_levels": {
+    "IVV": 0.0001,
+    "EFA": 0.0001,
+    "AGG": 0.0002,
+    "IEMG": 0.00015
+  }
+}
